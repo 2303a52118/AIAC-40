@@ -1,9 +1,12 @@
-# Lab 16 - Database Design and Queries
-## AI Assisted Coding Course (23CS002PC304)
 
-**Instructor:** Dr. Rishabh Mittal  
-**Academic Year:** 2025-2026  
-**Regulation:** R23
+# Lab 16 - Database Design and Queries
+
+## 
+- Designed 5 real-world database systems
+- Implemented normalized schemas (1NF, 2NF, 3NF)
+- Wrote optimized SQL queries with joins and aggregations
+- Applied indexing and performance optimization techniques
+
 
 ---
 
@@ -324,3 +327,5 @@ EXPLAIN SELECT * FROM Students WHERE email = 'test@email.com';
 **Date:** 2024
 
 For questions or clarifications, consult with **Dr. Rishabh Mittal** or your course instructors.
+=======
+
